@@ -2,8 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=42&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=DARWIN+MELAYA" alt="Darwin Melaya" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarwinMelaya&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true&custom_title=%20" alt="contribution graph" height="120" />
-  <br/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" alt="" />
   <p><b>FULL-STACK DEVELOPER / GIS & DATA VISUALIZATION</b></p>
 </div>
 
