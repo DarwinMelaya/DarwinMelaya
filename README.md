@@ -47,12 +47,12 @@ I create technical documentation, video content, and graphic materials for infor
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" alt="" />
 
 <div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="GitHub 3D Contribution Graph" width="100%" />
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=DarwinMelaya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&count_private=true" height="165" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarwinMelaya&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&count_private=true" height="165" alt="Top languages" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=DarwinMelaya&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" alt="GitHub streak" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarwinMelaya&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
 </div>
 
 ---
